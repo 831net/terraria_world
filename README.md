@@ -29,9 +29,10 @@ Opening time wil be usually at night and weekends, holidays will be much longer.
  * [ ] [Base defense](http://terraria.gamepedia.com/Guide:Base_defense)
  * [ ] [Arena](http://terraria.gamepedia.com/Guide:Arena)
  * [ ] Artificial biomes
- * [ ] Wirings(http://terraria.gamepedia.com/Guide:Wiring)
+ * [ ] [Wirings](http://terraria.gamepedia.com/Guide:Wiring)
  
- * Travelling
+ 
+* Travelling
   * [ ] Minecarts
   * [ ] Subway
   * [ ] SKy bridge
